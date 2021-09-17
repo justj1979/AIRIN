@@ -1,5 +1,4 @@
 # AIRIN
-This file structure is built to replicate a github repository.  Similarly, it will be loaded into a github repository.
 Each level is divided into logical regions of function, inspired by the human brain.  It is important to note, this is not following the human brain structure, nor is it intended to simulate the human brain.   This is a logical approach to the electrical and hardware structure of the processing units.  A good place to start.  There will likely be multiple iterations of this structure as technology becomes available, insights are gained, and funds become available.  
 Throughout this project, an archive will be kept for keeping track of progress and as a back up of information, should a change lead to an unwanted consequence.  
 Level 1 quadrants: Front, Back, Left, Right 
